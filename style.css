@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header{
+text-align: center;
+font-size: 144px;
+background: linear-gradient(180deg, #EB722E 0%, #BBE7FA 100%), linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #BBE7FA;
+}
+.news{
+position: absolute;
+width: 222px;
+height: 600px;
+left:900px;
+top: 318px;
+border: 10px solid #2E268B;
+box-sizing: border-box;
+border-radius: 20px;
+}
+h1:hover{
+    font-size:64px;
+    color:#FF8C00;
+}
+h2:hover{
+    font-size:64px;
+    color:#FF8C00;
+}
+.line{
+position: absolute;
+width: 1000px;
+height: 0px;
+left: 0px;
+border:5px solid #2E671F;
+}
